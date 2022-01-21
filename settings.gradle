@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Design Patterns"
 include ':app'
+include ':observer'
+include ':observer:sample'
